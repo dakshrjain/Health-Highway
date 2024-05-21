@@ -1,6 +1,8 @@
 # Health-Highway
 A system to reduce the communication gap between rural areas and city hospitals by helping  the medical assistants to use our application and extend the life expectancy of a patient and to create a Single point of contact for all health-related services.
 
+**Project Link** : https://drive.google.com/drive/folders/18NQCr91ukIghbw6xz7f7fF9TYxolbd1a?usp=sharing
+
 **Abstract**
 
 One of the basic vitalities of good living is quick access to essential services like health care. But many times it could mean a condition of life and death for an individual who is unable to get the access to these services. Thus an important part of social sector development is incomplete without adequate health care facilities. The quality of human health is the foundation upon which the realization of life goals and objectives of a persona, the community or nation as whole depends. It is both an end and means of development strategy. The relationship between health and development is mutually reinforcing- while health contributes to economic development, economic development, in turn, tends to improve the health status of the population in a country. India as a nation has been growing economically at a rapid pace particularly after the advent of New Economic Policy of 1991. However, this rapid economic development has not been accompanied by social development particularly health sector development. Health sector has been accorded very low priority in terms of allocation of resources. Public expenditure on health is less than 1 per cent of GDP in India. 
